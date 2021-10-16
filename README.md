@@ -1,2 +1,2 @@
 # fa3
-https://agrim2001.github.io/fa3/
+https://github.com/agrim2001/fa3/fa3.html
